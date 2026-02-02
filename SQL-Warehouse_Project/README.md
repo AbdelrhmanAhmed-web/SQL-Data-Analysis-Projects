@@ -19,6 +19,6 @@ This project showcases a complete **End-to-End Data Warehousing Solution** desig
 ## 🚀 How to Run
 1. **Download** the CSV files from the `/datasets` folder.
 2. **Import** them into your SQL Server environment.
-3. **Execute** the SQL scripts provided in the `sql_scripts` folder, starting from the bronze - gold .
+3. **Execute** the SQL scripts provided in the `sql_scripts` folder, starting from (Create_warehouse), then bronze TO gold .
 4. **Access the Views** created in the Gold Layer for final analysis.
 
